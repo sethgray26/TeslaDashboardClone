@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TeslaClone",
-    "slug": "TeslaClone",
+    "name": "TeslaDashboardClone",
+    "slug": "tesladashboardclone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Tesla Clone to learn better animations in React Native"
+    "description": "A Tesla Clone of their dashboard to learn better usage of passing props through a FlatList and scroll animations for React Native"
   }
 }
